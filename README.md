@@ -17,6 +17,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 📄 Live [Portfolio][profile]
 - 🎨 [Dribbble][dribbble] profile
+- ✉️ Reach me at dev.moniruzzaman75@gmail.com and WhatApps 01740641349
 -->
 
 
