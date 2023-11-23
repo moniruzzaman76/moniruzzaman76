@@ -7,7 +7,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 ### Talking about my personal stuff
 - 🔭 I’m currently improving my skill on Dart & Flutter
 - 🌱 I’m currently learning State Management like Provider
-- 🧑🏻‍💻 I’m currently working on an e-commerce app named [ChatApp](https://github.com/muj-i/flutter_talk)  
+- 🧑🏻‍💻 I’m currently working on a socail media app named [ChatApp](https://github.com/muj-i/flutter_talk)  
 - ❓ Ask me about anything related to Flutter & Dart and related technologies
 - ⚡ Fun fact: Ever loyal to night shift, I elegantly align with tabs over spaces
 <!--
